@@ -9,3 +9,6 @@
 - [x] Criada a validação de cadastro com o front-end
 - [x] Cadastro de novos generos ao banco de dados local
 - [ ] Validação da página de login para requisições dos usuários.
+
+
+#### O script do banco de dados será adicionado mais tarde.
