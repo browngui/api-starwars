@@ -1,4 +1,4 @@
-# api-starwars
+# API do web site sobre Star Wars
  
 ## Proposto como desafio a ser realizado como tarefa extra curricular.
 
